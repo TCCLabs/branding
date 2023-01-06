@@ -1,6 +1,6 @@
 # Branding files for TCCLabs, Extract, etc.
 
-# TCCLabs
+## TCCLabs
 
 ![](./assets/1_1_tcclabs.png)
 ![](./assets/1_1_tcclabsb.png)
@@ -11,7 +11,7 @@
 ![](./assets/2_1_tcclabswidedark.png)
 ![](./assets/2_1_tcclabswidedarkb.png)
 
-# Extract
+## Extract
 ![](./assets/1_1_extract.png)
 ![](./assets/1_1_extract2.png)
 ![](./assets/1_1_extract_b.png)
@@ -25,7 +25,7 @@
 ![](./assets/Extract white l.svg)
 ![](./assets/Extract white u.svg) -->
 
-# Credits
+## Credits
 
 [Masha](https://www.behance.net/mashaburdina)
 [Roobinium](https://roobinium.io)
