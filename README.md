@@ -18,7 +18,7 @@
 ![](./assets/3_1_extractwideb.png)
 ![](./assets/3_1_extractwidedark.png)
 ![](./assets/3_1_extractwidedarkb.png)
-![](./assets/Extract black l.svg)
+<!-- ![](./assets/Extract black l.svg)
 ![](./assets/Extract black u.svg)
 ![](./assets/Extract white l.svg)
-![](./assets/Extract white u.svg)
+![](./assets/Extract white u.svg) -->
